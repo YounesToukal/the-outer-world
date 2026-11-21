@@ -1,7 +1,7 @@
 # The Outer World: A Real-Time Solar System in OpenGL
 
 <p align="center">
-  <img src="docs/preview.webp" width="800" alt="Earth by day and by night, Saturn and its rings, Jupiter, and the orbits of the planets around the Sun">
+  <img src="docs/preview.webp" width="800" alt="Earth turning with its clouds while the Moon passes behind it">
 </p>
 
 The Outer World renders the Sun, the eight planets and the Moon in real time with C++ and OpenGL 3.3. The aim is to convey both the beauty and the scale of the solar system: the camera can orbit any body, land on Earth and look up at the sky, or set the Sun beside a planet at their true relative size.
